@@ -1,0 +1,20 @@
+# Sample YAML File
+
+person:
+  name: John Doe
+  age: 30
+  address:
+    street: 123 Main St
+    city: Anytown
+    zip: '12345'
+  hobbies:
+    - reading
+    - hiking
+    - coding
+
+favorite_colors:
+  - red
+  - blue
+  - green
+
+is_student: true
